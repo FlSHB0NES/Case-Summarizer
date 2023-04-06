@@ -1,0 +1,242 @@
+
+Page
+3
+of 11
+W25825
+GRAMEEN AMERICA: LIFTING AMERICA CAMPAIGN UNDER
+LOCKDOWN
+Jayshree Bhargava wrote this case under the supervision of Lee Watkiss solely to provide material for class discussion. The authors
+do not intend to illustrate either effective or ineffective handling of a managerial situation. The authors may have disguised certain
+names and other identifying information to protect confidentiality.
+This publication may not be transmitted, photocopied, digitized, or otherwise reproduced in any form or by any means without the
+permission of the copyright holder. Reproduction of this material is not covered under authorization by any reproduction rights
+organization. To order copies or request permission to reproduce materials, contact Ivey Publishing, Ivey Business School, Western
+University, London, Ontario, Canada, N6G 0N1; (t) 519.661.3208; (e) cases@ivey.ca; www.iveycases.com. Our goal is to publish
+materials of the highest quality; submit any errata to publishcases@ivey.ca. i1v2e5y5pubs
+Copyright © 2022, Ivey Business School Foundation Version: 2022-01-17
+The poor themselves can create a poverty-free world. All we have to do is to free them from the chains
+that we have put around them.
+Muhammed Yunus. 1
+In April 2020, Mindee Barham, vice-president of development at Grameen America, reflected on the changes
+her organization had experienced in the last couple of years. Grameen America, one of the top microfinancing2
+organizations in the United States, focused on empowering low-income female entrepreneurs by offering them
+microloans to develop and grow their own businesses. As a social business, Grameen America strove to cover
+its core operational expenses with the interest income it earned from its loan portfolio. The organization also
+depended on philanthropy as a primary source of funding to deepen its impact and expand to serve new
+members, reach new markets, and make innovative enhancements to its program.
+In 2019, under Barham’s leadership, Grameen America launched the Lifting America campaign to raise
+US$300 million,3 including $100 million in philanthropy and $200 million in debt capital, to enable it to
+expand its range of products and services and enter new geographic areas. At its core, Grameen America
+wanted to increase membership to 400,000 and to issue loans amounting to $12 billion.4 The campaign had
+gotten off to a roaring start. First, fundraising surpassed expectations. Barham and her team had been able
+to raise $30 million in the first year, $5 million more than their goal. Second, Grameen America had
+successfully opened two new locations in California: one in Fresno and the other in Long Beach. New
+locations were also imminent in Chicago, Texas, and Connecticut. Third, Grameen America had introduced
+a new loan, the Business Expansion Loan, which enabled more mature members whose involvement in
+Grameen America spanned several years and who had successfully repaid loans of increasing amounts to
+apply for single loans of $10,000 or more.
+In February 2020, Grameen America was approaching the goal of operational sustainability. And then
+disaster struck. On March 13, 2020, the president of the United States declared a national emergency due
+to the worldwide spread of the global coronavirus disease (COVID-19). The public health guidelines from
+the Centers for Disease Control and Prevention seemed to be clear: stay home if you are sick, work from
+home where possible, and avoid crowds. 5 But what these measures did not account for were those who
+could not afford to miss work—those who were living paycheque to paycheque and those who could not
+pay for the hospital bills that came after treatment. These were the people in the United States who were hitFor use only in the course Stategy at Richard Ivey School of Business from Jan 02, 2023 to Apr 30, 2023.
+Use outside these parameters is a copyright violation.309
+Page 2 W25825
+hardest by COVID-19. Approximately 36 per cent of adults with household incomes below $25,000
+reported not having enough food to eat, and 50 per cent worried about being able to pay the next month’s
+rent. 6 Lower-income individuals did not have the same access to health care or the resources to properly
+maintain physical distancing.7 These were precisely the people that Grameen America served.
+Looking at the eerily quiet streets of New York City, Barham was wondering what to do. She was proud of
+her team’s efforts on the Lifting America campaign. What would become of this campaign now? What
+could Grameen America do to support its members through the COVID-19 pandemic without jeopardizing
+the future of Grameen America itself?
+GRAMEEN BANK: A BRIEF HISTORY
+The seeds of Grameen Bank began to grow out of an experiment conducted by an economics professor,
+Muhammad Yunus, in Bangladesh in 1976. Following the Bangladesh Liberation War in 1971 and a 1974
+famine, Bangladesh was one of the most poverty-stricken nations in the world.8 Yunus became fascinated
+with the economics of the poor; he believed that some people were unable to break the poverty cycle due
+to pre-existing institutions and social systems. 9
+One day, while walking the streets of Dhaka, in Bangladesh, Yunus came across Sufia Khatun, a producer
+and seller of bamboo stools. To finance her enterprise, Khatun had to rely on moneylenders because
+traditional banks were uninterested. Like many poor women, she faced barriers to accessing banking
+services: her gender, the low value of the loan she required, her lack of assets to use as collateral, and her
+non-existent credit history made her an unattractive customer.10 The upshot was that she made only $0.02
+per day for her efforts. Khatun’s profits were consumed servicing her debts. After striking up a conversation
+with Khatun, Yunus calculated that she needed a loan of only $5 to be free of the moneylenders.
+Yunus loaned Khatun the $5 she needed. With that, her daily profit increased to $2, and Khatun was able
+to repay the loan in full. Next, Yunus and his students at the University of Chittagong experimented by
+lending an additional $27 to forty-two individuals to support their ventures, which were typically simple
+operations such as growing and selling fruits and vegetables or producing and selling household goods. The
+outcome was the same: profitability increased, and the loans were repaid in full.11 Yunus’s insight was that
+financial inclusion and self-sufficiency were excellent ways to eradicate poverty. Each loan helped a
+specific venture or individual. Collectively, the loans facilitated a cycle of income-generating activities that
+fuelled the development of a sustainable community.
+Buoyed by these initial successes, Yunus continued to experiment, throughout the remainder of the 1970s, in
+the villages surrounding Jobra.12 Finally, he proposed the idea of microloans to existing financial institutions.
+The banks never accepted the idea, as they believed the borrowers were not creditworthy and would default
+on their loans. Consequently, in 1983, Yunus incorporated Grameen Bank as a community endeavour, which
+to this day was 90 per cent owned by its borrowers and 10 per cent owned by the government of Bangladesh.13
+IT TAKES A VILLAGE: GRAMEEN BANK’S PEER-LENDING MODEL
+Since Grameen Bank targeted members that traditional banks ignored, Yunus had to reimagine how the
+bank would operate. This often meant doing the opposite of what traditional banks would do. One difference
+was that Grameen Bank’s members were almost exclusively women. Women comprised 70 per cent of
+those living below the poverty line, in part due to their exclusion, on cultural grounds, from market
+activities. 14 Women were more risk averse when choosing projects, leading to a higher repayment rate.For use only in the course Stategy at Richard Ivey School of Business from Jan 02, 2023 to Apr 30, 2023.
+Use outside these parameters is a copyright violation.310
+Page 3 W25825
+They also had a higher tendency to spend their incomes on their households.15 As Yunus explained, “Not
+only do women constitute the majority of the poor, the underemployed, and the economically and socially
+disadvantaged, but they more readily and successfully improve the welfare of both children and men.”16
+The result of extending credit to women rather than men was to create more change, more quickly.
+Another difference was that Grameen Bank’s loans were for low dollar amounts. In 1993, a first-time loanee
+would receive no more than $65.17 These loans lasted fifty-two weeks, and daily repayments (which later
+became weekly repayments) began immediately. A loan from Grameen Bank carried a 20 per cent interest
+rate in 1993.18 By comparison, village moneylenders charged interest rates as high as 200 per cent
+annually.19 Grameen Bank also required its members to save $0.02 each week. 20
+In the most radical departure from existing financial institutions, Grameen Bank reversed traditional loan
+structures by removing financial or asset-based collateral and replacing it with social collateral. Yunus
+found that borrowers were more likely to repay their loans if they formed groups of people who knew each
+other and would hold one another accountable.21
+When the organization first started in Bangladesh, five women from the same social circle, with similar
+economic status and bargaining power, would form a group. Two women from the group would apply for
+a loan, and if they successfully made a series of timely repayments, all the other women in the group would
+become eligible for loans.22 If one borrower defaulted, other group members were not entitled to loans, yet
+they were allowed to dip into their savings accounts to loan money to other group members to stop them
+from defaulting.23 Six to eight of these groups formed a centre, based on geographic proximity.
+Grameen Bank did not expect its members to visit it, as members viewed banks as intimidating and
+unwelcoming. The primary interactions between Grameen Bank and its members occurred during weekly
+centre meetings in the members’ communities instead. At these meetings, instalments against the loans
+were made, deposits were made into savings accounts, and business strategies were exchanged. 24 Grameen
+Bank operated as transparently as possible; all transactions were conducted in the open.25 And whenever a
+dispute arose, it was addressed openly without the involvement of the courts.26
+Grameen Bank, however, was more than a bank. The name Grameen was derived from the Bengali word
+for village, 27 which was at the core of Grameen Bank’s mission. In 1984, members representing dozens of
+centres created a statement that came to be known as the “16 Decisions” (see Exhibit 1). In these decisions,
+members committed to elevating themselves, their families, and their communities as a requirement of
+joining Grameen Bank.28 Contemporary members make the same commitment.
+In 2006, Yunus was awarded a Nobel Prize for his work with Grameen Bank. By 2020, the bank had 9.6
+million members across 93 per cent of the villages in Bangladesh. 29 The success of Grameen Bank had been
+unparalleled, with the average household income of a borrower being 50 per cent higher than those of non-
+Grameen Bank members, and with 125,000 Grameen families lifting themselves out of poverty each year.30
+At 97 per cent, Grameen Bank’s loan recovery rate was higher than that of any banking institution in the
+world. 31 Grameen Bank also began to diversify into new products and services, such as Grameen Shikkha,
+which focused on promoting rural education programs, including early learning for child development. By
+2020, these programs had been implemented in fifty-eight countries. 32For use only in the course Stategy at Richard Ivey School of Business from Jan 02, 2023 to Apr 30, 2023.
+Use outside these parameters is a copyright violation.311
+Page 4 W25825
+COMING TO AMERICA
+Grameen America was established in the United States in 2008 and specifically targeted women living
+below the federal poverty line. In the United States, 27 per cent of households had little access to traditional
+financial institutions and had difficulty qualifying for loans.33 Headed by President and Chief Executive
+Officer Andrea Jung, Grameen America focused on providing members with access to capital through
+microloans, building members’ assets and credit scores, and providing financial education.
+Grameen America operated few branches. Like Grameen Bank, Grameen America’s high-touchpoint model
+used social collateral to enable microfinancing. As in Bangladesh, a candidate had to find four other women
+whom she trusted to form a membership group. Members were required to attend five days of training in
+order to receive their first loan. Members also committed to weekly in-person meetings, where they would
+make loan repayments and discuss challenges facing their ventures. In 2019, only 40 per cent of members
+had chequing accounts.34 Members participated in additional financial training during these meetings. They
+were also encouraged to make $2 weekly deposits into their savings accounts. Each member of the group
+was required to attend the weekly meetings and make weekly loan repayments to be eligible for additional
+loans or increments on their next loans.
+At the outset, all five members of a group were required to attend five consecutive days of financial training
+on loans, building credit, and the value of savings. At the completion of the training, all members became
+eligible for $500–$2,000 loans to fund their businesses. 35 Grameen America also reported loan repayments
+to credit agencies, thereby boosting members’ credit scores and reducing barriers to seeking larger loans
+from traditional financial institutions.36
+This model proved to be successful. Grameen America had a 99 per cent loan repayment rate on its 18 per
+cent interest-rate loans, on which interest was calculated on a declining balance (all loans were for twenty-
+six weeks). It also had up to a 91 per cent member retention rate for those seeking and applying for
+additional microloans once their existing loans were repaid.37
+The average age of a Grameen America member was forty-one.38 The majority of these members did not identify
+English as their first language, and 91 per cent were born outside of the United States (see Exhibit 2).39 Grameen
+America member businesses largely focused on cosmetics, clothing, and jewellery (see Exhibit 3).40
+Many members’ microbusinesses supplemented their main sources of income, which came from paid work
+as employees (the average member income from paid work was $18,655).41 Members reported that prior to
+joining Grameen America, they had found growing their ventures to be time consuming and that the
+businesses lacked the stability required to become their primary sources of income. This often left them unable
+to grow their ventures, and added to the financial insecurity that many of these future members had felt.42
+Within one year of the start of the Grameen America program, the results of a randomized controlled trial
+showed improvements in members’ financial situations, compared to those of a control group, on a number
+of important dimensions, including their experiences of material hardship, their credit scores, their ability
+own and operate their own businesses, their business earnings, and their savings.
+Members experienced a reduction of material hardships. About 44 per cent of the women in the Grameen
+America group reported experiencing any type of material hardship over the past year—15 percentage
+points lower than the level experienced in the control group.For use only in the course Stategy at Richard Ivey School of Business from Jan 02, 2023 to Apr 30, 2023.
+Use outside these parameters is a copyright violation.312
+Page 5 W25825
+Their credit scores increased. The Grameen America program produced a 20 percentage point increase in
+members’ attainment of credit scores known as VantageScores. This was a critical step that allowed
+participants to gain further access to credit. The study also noted a 10 percentage point increase in the
+attainment of Prime credit scores, which represented the top tier of creditworthiness.
+More members became business owners. About 94 per cent of women in the Grameen America group
+reported operating their own businesses eighteen months after joining the program—19 percentage points
+more than women in the control group.
+Members’ business earnings increased, but there was no effect on their overall net income. The program
+increased both monthly business revenue (by $523) and monthly business expenses (by $384). Because the
+program increased business revenue by a greater amount than it increased business expenses, the program
+increased average monthly earnings from businesses. These increased business earnings offset decreased
+wage earnings, resulting in no effect on net income.
+Members also increased their nonretirement savings. Women in the Grameen America group reported having
+$1,920 in average savings compared with $1,180 for women in the control group, or 63 per cent more.
+Norma’s story was a tangible example of the program’s impacts. Prior to becoming involved with Grameen
+America, she had cut hair and sold food from her home but struggled to pay the bills and cover rent, often
+relying on donations to support herself and her children. Norma’s mother was a Grameen America member,
+and she introduced Norma to the program. Over the course of an eight-year involvement, Grameen America
+enabled Norma to purchase the supplies she needed and expand into additional salon services. She also
+developed a credit score and was able to investigate purchasing a house. 43
+As its tenth anniversary neared, Grameen America had invested $1 billion in loan capital to 100,000
+members from twenty branches and thirteen cities across the nation.44 Grameen America had no intention
+of resting on its laurels. Poverty in the United States was still prevalent. In 2018, more than thirty-eight
+million Americans, including one in eight women, lived below the federal poverty level. 45 Grameen
+America turned its attention to significantly increasing the scale of its operations to reach more women like
+Norma. Its goal: to create multi-generational change by empowering today’s women to lift themselves and
+their communities out of poverty.
+LIFTING AMERICA GROWTH CAMPAIGN
+With the strategic support of the Boston Consulting Group, Barham and her team drafted the Lifting
+America campaign, a $300 million fundraising effort to fuel Grameen America’s ten-year strategic plan.46
+This included the expansion of its products, services, and geographic locations. The goals at the centre of
+this plan were to increase membership to 400,000 and to issue loans amounting to $12 billion.47
+Grameen America’s plan was to open an additional nineteen locations, for a total of forty locations across the
+United States. To successfully scale to these new locations, Grameen America needed to alter its evaluation
+criteria for opening new branches. Currently, the criteria included population density, the percentage of women
+living in poverty, and the number of unbanked people living in the communities of interest.48 Grameen America
+added the following criteria: (1) a city’s propensity towards entrepreneurship; (2) the proximity of a branch to a
+local transportation hub; and (3) the availability of funding resources, primarily from local donors.49For use only in the course Stategy at Richard Ivey School of Business from Jan 02, 2023 to Apr 30, 2023.
+Use outside these parameters is a copyright violation.313
+Page 6 W25825
+Grameen America also launched a new initiative, Elevating Black Women Entrepreneurs. Grameen
+America’s vision and mission of serving all low-income women entrepreneurs who lacked access to
+affordable capital was amplified by the pandemic’s disproportionate impact on minority-owned small
+businesses. To fulfill this mission, Grameen America was committed to adapting its existing program in
+order to successfully serve Black women entrepreneurs.
+The organization’s strategic plan also emphasized member renewal and retention, which would lead to
+continued organizational growth and sustainability. Member surveys showed that the ambitions of members
+differed. Some wanted to sustain their businesses, whereas others were looking to grow and expand.50 Many
+members faced the issue of outgrowing the existing product offerings of Grameen America, but their
+businesses were too small to qualify for loans from traditional banks. As part of its member retention plan,
+Grameen America introduced the Business Expansion Loan, which allowed existing members with a
+history of successful loan repayment and larger businesses to apply for loans for amounts starting at
+$10,000.51 The challenge for Grameen America was to carefully consider whether changes were needed to
+its existing practices and requirements for members receiving these larger loans.
+A second aspect of the member retention plan—more training programs—would be rolled out as part of a later
+phase of the campaign. Barham noted, based on Grameen America’s foray into Harlem, that members there
+were increasingly interested in improving their business and financial literacy. Grameen America was also
+considering providing training related to health care as well as referrals to social services such as food banks,
+dental care, and agencies that provided support related to domestic violence concerns.52 Before these could be
+rolled out, Grameen America needed to undertake a detailed review of the services that would be most impactful.
+As the organization and the board considered each of these three aspects of the Lifting America campaign
+—fundraising, expansion, and member retention and sustainability—they wondered if Grameen America
+had the requisite internal capabilities. How would they develop or acquire those capabilities that Grameen
+America was lacking? This was an exciting time for Grameen America, and the organization’s leadership
+was determined to make it a success. Its members deserved nothing less.
+MOVING FORWARD
+By February 2020, Grameen America was well on the way to achieving many of its objectives for the
+Lifting America campaign. Fundraising had surpassed expectations. Two new locations in California had
+been opened. A new loan, the Business Expansion Loan, had been introduced. And Grameen America was
+approaching operational sustainability. Yet, in April 2020, as COVID-19 ravaged the United States, Barham
+and the leadership team were compelled to examine what Grameen America could do to support its
+members through the pandemic without jeopardizing their future plans.For use only in the course Stategy at Richard Ivey School of Business from Jan 02, 2023 to Apr 30, 2023.
+ 
